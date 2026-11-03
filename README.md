@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Agentic AI, RAG, LLM application development, and software architecture**
 
-- 💬 Ask me about **Python, React, TypeScript, Flutter, FastAPI, and AI-powered applications**
+- 💬 Ask me about **Python, React, JavaScript, TypeScript, Flutter, FastAPI, and AI-powered applications**
 
 - 📫 How to reach me **damlacakci8@gmail.com**
 
